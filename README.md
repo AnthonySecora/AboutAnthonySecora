@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Anthony and welcome to my GitHub! My account is best seen in dark mode.</h1>
-<h3 align="center">I'm almost always open to new opportunities for: Software Engineer/Developer, Machine Learning Engineer, Cybersecurity Analyst/Engineer, or Quantum Computer Scientist. Remote or <25% hybrid positions are my preference, but in-person is cool too!</h3>
+<h1 align="center">Hi 👋! I am Anthony and welcome to my GitHub! My account is best seen in dark mode.</h1>
+<h3 align="center">I'm always open to new opportunities for: Cybersecurity Engineer/Analyst, Network Engineer, Software Engineer/Developer, Machine Learning Engineer, or Quantum Computer Scientist. Remote or <25% hybrid positions are my preference, but in-person is cool too!</h3>
 
 - 🔭 I’m currently working on **developing malware and creating neural networks**.
 
